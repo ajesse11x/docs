@@ -9,6 +9,6 @@ group :jekyll_plugins do
     gem "jekyll-optional-front-matter"
     gem "jekyll-sitemap"
     gem "jekyll-titles-from-headings"
-    gem "jemoji"
+    gem "jemoji", ">= 0.8.1"
     gem "pygments.rb"
 end
